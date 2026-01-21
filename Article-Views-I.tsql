@@ -1,6 +1,0 @@
-1/* Write your T-SQL query statement below */
-2SELECT DISTINCT
-3    author_id AS id
-4FROM views
-5WHERE author_id = viewer_id
-6ORDER BY 1 ASC
